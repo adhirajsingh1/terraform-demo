@@ -39,4 +39,4 @@ terraform destroy
 
 **Proof that Container has been created** 
 
-![Docker container running](./terrafrom docker.png)
+![Docker container running](./images/terrafrom docker.png)
